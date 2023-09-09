@@ -1,4 +1,4 @@
-#<b>Bharat-Intern-Taks-dat-science>/b><br>
+<b>Bharat-Intern-Taks-dat-science></b><br>
 Task 1<br>
 Problem explain:<br>
 TO PREDICT THE STOCK PRICE OF ANY COMPANY USING LSTM.<br>
